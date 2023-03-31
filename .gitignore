@@ -21,6 +21,7 @@
 *.properties
 *.yml
 HELP.md
+src/main/resources/META-INF
 
 # Sensitive or high-churn files
 .idea/**/dataSources/
